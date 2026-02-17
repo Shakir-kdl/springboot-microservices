@@ -1,10 +1,10 @@
-package com.amazon.user;
+package com.amazon.eureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Day10Project02SpringEurekaUserServiceSampleApplicationTests {
+class EurekaServerApplicationTests {
 
 	@Test
 	void contextLoads() {
