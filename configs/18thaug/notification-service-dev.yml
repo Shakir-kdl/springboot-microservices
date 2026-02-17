@@ -1,9 +1,9 @@
 spring:
   application:
-    name: order-service
+    name: notification-service
 
   datasource:
-    url: jdbc:mysql://localhost:3306/order_db  # changed from mysql → localhost
+    url: jdbc:mysql://localhost:3306/notification_db  # changed from mysql → localhost
     username: root
     password: 403403
     driver-class-name: com.mysql.cj.jdbc.Driver
@@ -30,7 +30,7 @@ spring:
       - X-B3-Flags
 
 server:
-  port: 8082
+  port: 8085
 
 eureka:
   client:
