@@ -3,11 +3,8 @@ spring:
     name: order-service-sync
 
   datasource:
-<<<<<<< HEAD:configs/18thaug/order-service-sync-dev.yml
-    url: jdbc:mysql://localhost:3306/amazon_db;  # changed from mysql → localhost
-=======
-    url: jdbc:mysql://localhost:3306/ restaurant_swiggy  # changed from mysql → localhost
->>>>>>> 01096801892951d54eebe5d5194a0ea7d0e97824:configs/18thaug/restaurant-service-swiggy-dev.yml
+
+    url: jdbc:mysql://localhost:3306/amazon_db  # changed from mysql → localhost
     username: root
     password: 403403
     driver-class-name: com.mysql.cj.jdbc.Driver
