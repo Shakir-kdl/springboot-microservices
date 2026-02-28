@@ -1,3 +1,0 @@
-2026-02-28 14:46:58 [main] INFO  com.fortis.patient.PatientServiceApplication - Starting PatientServiceApplication using Java 17.0.12 with PID 23436 (C:\Users\shaik\microservice-workspace\patient-service\target\classes started by Shakir in C:\Users\shaik\microservice-workspace\patient-service)
-2026-02-28 14:46:58 [main] DEBUG com.fortis.patient.PatientServiceApplication - Running with Spring Boot v3.1.5, Spring v6.0.13
-2026-02-28 14:46:58 [main] INFO  com.fortis.patient.PatientServiceApplication - The following 1 profile is active: "dev"
