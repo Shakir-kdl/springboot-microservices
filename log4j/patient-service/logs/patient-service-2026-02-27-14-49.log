@@ -1,0 +1,4 @@
+2026-02-27 14:49:33 [http-nio-8090-exec-4] INFO  com.fortis.patient.controller.PatientController - API call received to fetch patient with ID: 988
+2026-02-27 14:49:33 [http-nio-8090-exec-4] INFO  com.fortis.patient.service.PatientService - Fetching patient with ID: 988
+2026-02-27 14:49:33 [http-nio-8090-exec-4] WARN  com.fortis.patient.service.PatientService - Patient not found with ID:988
+2026-02-27 14:49:33 [http-nio-8090-exec-4] ERROR com.fortis.patient.service.PatientService - Simulated database failure for ID: 988

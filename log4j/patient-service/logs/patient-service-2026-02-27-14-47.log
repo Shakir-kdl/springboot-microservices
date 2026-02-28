@@ -1,0 +1,601 @@
+2026-02-27 14:47:00 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183820315; nextExpiration=1772183820314; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:01 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183821325; nextExpiration=1772183821315; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:02 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183822326; nextExpiration=1772183822325; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:03 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183823331; nextExpiration=1772183823326; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:04 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183824333; nextExpiration=1772183824331; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:05 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183825334; nextExpiration=1772183825333; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:06 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183826336; nextExpiration=1772183826334; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:07 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183827336; nextExpiration=1772183827336; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:08 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183828337; nextExpiration=1772183828336; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:09 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183829338; nextExpiration=1772183829337; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:10 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183830338; nextExpiration=1772183830338; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:11 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183831340; nextExpiration=1772183831338; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:12 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183832340; nextExpiration=1772183832340; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:13 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183833341; nextExpiration=1772183833340; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:14 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183834342; nextExpiration=1772183834341; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:15 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183835343; nextExpiration=1772183835342; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:16 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183836354; nextExpiration=1772183836343; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:17 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183837371; nextExpiration=1772183837354; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:18 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183838372; nextExpiration=1772183838371; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:19 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183839372; nextExpiration=1772183839372; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:19 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2026-02-27 14:47:19 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2026-02-27 14:47:20 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183840372; nextExpiration=1772183840372; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:21 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183841372; nextExpiration=1772183841372; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:22 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183842373; nextExpiration=1772183842372; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:23 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183843374; nextExpiration=1772183843373; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:24 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183844374; nextExpiration=1772183844374; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:25 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183845378; nextExpiration=1772183845374; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000015 preparing request execution
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000015 target auth state: UNCHALLENGED
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000015 proxy auth state: UNCHALLENGED
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000015 acquiring connection with route {}->http://localhost:8761
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000015 acquiring endpoint (180000 MILLISECONDS)
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000015 endpoint lease request (180000 MILLISECONDS) [route: {}->http://localhost:8761][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000015 endpoint leased [route: {}->http://localhost:8761][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[read] I/O error: Read timed out"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000015 acquired ep-0000000015
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000015 acquired endpoint ep-0000000015
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000015 executing PUT /eureka/apps/PATIENT-SERVICE/Shakir:patient-service:8090?status=UP&lastDirtyTimestamp=1772183635794 HTTP/1.1
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.protocol.RequestAddCookies - ex-0000000015 Cookie spec selected: strict
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000015 start execution ex-0000000015
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000015 executing exchange ex-0000000015 over http-outgoing-1
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> PUT /eureka/apps/PATIENT-SERVICE/Shakir:patient-service:8090?status=UP&lastDirtyTimestamp=1772183635794 HTTP/1.1
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Accept: application/json, application/*+json
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Accept-Encoding: gzip, x-gzip, deflate
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Content-Length: 0
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Host: localhost:8761
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Connection: keep-alive
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> User-Agent: Apache-HttpClient/5.2.1 (Java/17.0.12)
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "PUT /eureka/apps/PATIENT-SERVICE/Shakir:patient-service:8090?status=UP&lastDirtyTimestamp=1772183635794 HTTP/1.1[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Accept: application/json, application/*+json[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Accept-Encoding: gzip, x-gzip, deflate[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000016 preparing request execution
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Content-Length: 0[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Host: localhost:8761[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Connection: keep-alive[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "User-Agent: Apache-HttpClient/5.2.1 (Java/17.0.12)[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000016 target auth state: UNCHALLENGED
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000016 proxy auth state: UNCHALLENGED
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000016 acquiring connection with route {}->http://localhost:8761
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000016 acquiring endpoint (180000 MILLISECONDS)
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000016 endpoint lease request (180000 MILLISECONDS) [route: {}->http://localhost:8761][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000016 endpoint leased [route: {}->http://localhost:8761][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[read] I/O error: Read timed out"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000016 acquired ep-0000000016
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000016 acquired endpoint ep-0000000016
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000016 executing GET /eureka/apps/delta HTTP/1.1
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.protocol.RequestAddCookies - ex-0000000016 Cookie spec selected: strict
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000016 start execution ex-0000000016
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000016 executing exchange ex-0000000016 over http-outgoing-0
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> GET /eureka/apps/delta HTTP/1.1
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> Accept: application/json, application/*+json
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> Accept-Encoding: gzip, x-gzip, deflate
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> Content-Length: 0
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> Host: localhost:8761
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> Connection: keep-alive
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> User-Agent: Apache-HttpClient/5.2.1 (Java/17.0.12)
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "GET /eureka/apps/delta HTTP/1.1[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "Accept: application/json, application/*+json[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "Accept-Encoding: gzip, x-gzip, deflate[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "Content-Length: 0[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "Host: localhost:8761[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "Connection: keep-alive[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "User-Agent: Apache-HttpClient/5.2.1 (Java/17.0.12)[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "HTTP/1.1 200 [\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "Content-Length: 0[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "Date: Fri, 27 Feb 2026 09:17:26 GMT[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "Keep-Alive: timeout=60[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "Connection: keep-alive[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "HTTP/1.1 200 [\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << HTTP/1.1 200 
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Type: application/json[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << Content-Length: 0
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << Date: Fri, 27 Feb 2026 09:17:26 GMT
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << Keep-Alive: timeout=60
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << Connection: keep-alive
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Length: 541[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Date: Fri, 27 Feb 2026 09:17:26 GMT[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Keep-Alive: timeout=60[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[\r][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000015 connection can be kept alive for 60 SECONDS
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000015 releasing valid endpoint
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000015 releasing endpoint
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[0x1f][0xffffff8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0xffffffff][0xffffff8d]RMo[0xffffffe2]0[0x10][0xfffffffd]/V[0xffffff8f]4[0xffffff90]B[0x3][0xffffffc9][0xffffffa9][0xffffff88]p[0xffffff88]VKQ[0xffffff81][0xffffffee]a[0xffffffb5]B[0xffffffb3][0xffffffce]@[0xffffffbc]M[0xffffffec][0xffffffc8]vh[0x11][0xffffffe2][0xffffffbf]w[0xffffff9c]4l[0xffffffe9][0xffffff97]*[0xe][0xffffffc1]3o>[0xffffffde][0xffffff9b]w`P[0xffffff96][0xffffffb9][0xffffffe0]`[0xffffff85][0xffffff92][0xffffff86]E[0x7][0xffffffb6]Cm[0xffffffdc][0xffffffff][0xfffffff5]:[0xffffffc5][0xffffffdc][0x2][0xffffff8b][0xffffff98][0xffffffdf]c[0x1d][0x7][0xffffffa3]P[0x6]&[0xffffffe3]*E[0xffffff8a][0xffffffae][0xffffffe6]k[0x7f][0xffffffdd]$[0xffffffda]z[0x16][0xfffffffd]>0[0x9][0xffffff85]K[0xffffffcf][0xffffffc7][0xffffffcb]d:[^.[0xffffffa6]w[0xfffffff7][0xffffffc9]dJ@![0xffffff8d][0x5][0xffffffc9][0xffffffb1]F[0xffffffb5][0xffffff8f]$%[0xffffffec]"[0xffffff83][0x7][0xffffffa1][0xffffffa3][0xffffff92][0xffffff9a][0xffffffa0][0xffffffb4][0xffffff97][0x6][0xfffffff5]Np[0xffffff8c]F[0xffffffbd][0xffffffd0]M[0xffffffce][0xffffff94][0xffffffb1][0xffffffb3][0xffffffa6][0xffffffa9][0x1f]^y~0[0xfffffff2]|/[0x18]5[0xffffffa3]?[0xffffff9e]T[0xffffff8e][0xffffffd3]T[0xffffffbf][0xffffffc7][0xffffffd3]H[[0xffffff99]zwz)b[0xffffffaa]E[0xffffff9a][0xffffffa2]\[0xffffff9c][0xffffffe2][0xffffffb3][0x1f][0xffffffb3][0xffffffdb]_3J[0xffffff96]J[[0xffffffa7][0xffffffc6][0x5][0xffffffab][0xffffffd7][0xffffffe8][0xffffffb0][0x1b][0xffffff94][0xfffffff0]7G[0xffffffb7][0xffffffae][0xffffffd5][0x15][0xffffffb2]#[0xffffffb5]C^i[0xffffff9c][0xffffffff]G[0xe][0x6][0xfffffffd]3[0xffffffe0][0x6]rS#[0xffffffb9][0xffffffaa][0xffffffa4][0xffffffd5]{G[0xffffffd6][0xffffffef][0xffffffb0][0x14],L[0xffffff88]([0xffffffea]Dn[0xffffff94][0xffffffab][0xffffffbd][0xffffffe1]9[0x18][0xffffffb7][0x0]W[0xffffff85]'[0xffffffd1]nr[0xfffffff1][0xffffffe4][0x11];Ay/i[0xffffffa5][0xffffffa2][0xffffffc7]E[0xffffff8c][0x1b][0xffffffa8]r[0x1b][0xffffff9f][0xffffffb7][0xffffffe8][0xffffffb4][0xffffffaa][0xffffffff][0xffffffdc][0xffffffdf]>J71G0[0xffffffd8][0xffffffb6][0xffffffd7]([0xfffffff1][0x11][0xfffffff2][0xffffffc4][0xffffffe1]w[0xffffffee][0xffffffbb]@N[0xffffffd3][0xfffffffa]D+[0xffffffad]t}[0xffffffba]6[0xffffffe6][0xffffffa8]j[0xffffffdc][\n]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000015 connection http-outgoing-1 can be kept alive for 60 SECONDS
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000015 connection released [route: {}->http://localhost:8761][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "c[0xffffff9b][0xfffffff8]R[0x14]H[0xffffffe3][0xb][0x12][0xffffffda][0x1f][0xe][0xffffffaf][0xfffffffc]Q?[0xffffffe8]_[0xffffff87][0xffffffbd][0x1]M[0x0]c[0xffffffef][0xffffff9a][0xffffffc6][0xffffffef]Aa/[0xfffffff0][0xffffffaf][0xffffffc3][0xe]C:[0xffffffe4][0xffffff9b]6='\}[0xffffffe0]U[0xfffffff9]Yw"P[0xffffffa0][0x5]'[0xffffff94][0xffffffdb][0xffffffbf][0x0][0x9][,[0xffffff88][0xffffffaf][0xffffffd7][0xffffffdc][0xffffff85][0xffffffbd]X[0xffffffe3]_[0xfffffff1][0xffffffd4]F[0xffffff82]A[0xffffffd0][0x1f]9[0xffffffe6][0xffffff99]*pN[0xfffffff0][0xffffff95][0xffffffce])[0xffffff9c]Y[F[0xffffffdd][0xffffffee]k#[0xffffffd4][0x7][0xffffffed][0xffffff9e][0xffffffec][0xfffffff0][\r],p[[0xffffff81]U[0xffffffba]+[0x1a][0xffffffb1]3[0xffffff84][0xffffffdc]f[0xffffff93][0xc][0xfffffff9][0xffffffc3]w+[0xffffff9b][0x12][0xffffffaa][0xffffffdd]5[0xffffffe6][0xffffffc4][0xfffffffa][0xffffffdc]o[0x1c][0xffffffcf]ZO[0xffffffdd][0x7f][\r][0x12]f[0xffffffa2][0xffffff94]N[0xffffff85][0xffffffa4][0xffffff8c][0xffffffdc][0xffffffc6][0xffffffc2]p[0xffffffe7][0xffffffe5][0xfffffffd][0xffffff82][0x0][0xffffffa8]O[0xffffffbe]kN[0xffffffb4]*IEL_)[0xffffffcd][0xffffffce][0xffffffa4]~[0xffffff81][0xffffffc5]B[0xffffffdb][0xfffffffd][0xffffffc7][0xffffffa0]a[0xffffffe8]@[0xffffffd0][0xffffffdc]q_:[0xffffff9b][0xffffff8d][0xffffffe3]x[0x1a][0xffffffb3][0xffffffe3][0x1f][0xfffffffa][0x1d][0xffffff9f][0x1][0x5][0xffffff95][0xffffffdc]rB[0x4][0x0][0x0]"
+2026-02-27 14:47:26 [DiscoveryClient-HeartbeatExecutor-0] DEBUG com.netflix.discovery.DiscoveryClient - DiscoveryClient_PATIENT-SERVICE/Shakir:patient-service:8090 - Heartbeat status: 200
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << HTTP/1.1 200 
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Encoding: gzip
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Type: application/json
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Length: 541
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Date: Fri, 27 Feb 2026 09:17:26 GMT
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Keep-Alive: timeout=60
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Connection: keep-alive
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000016 connection can be kept alive for 60 SECONDS
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000016 releasing valid endpoint
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000016 releasing endpoint
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000016 connection http-outgoing-0 can be kept alive for 60 SECONDS
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000016 connection released [route: {}->http://localhost:8761][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG com.netflix.discovery.DiscoveryClient - Got delta update with apps hashcode UP_1_
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG com.netflix.discovery.DiscoveryClient - Added instance Shakir:patient-service:8090 to the existing apps in region null
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG com.netflix.discovery.DiscoveryClient - The total number of instances fetched by the delta processor : 1
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG com.netflix.discovery.DiscoveryClient - The total number of all instances in the client now is 1
+2026-02-27 14:47:26 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG com.netflix.discovery.DiscoveryClient - Completed cache refresh task for discovery. All Apps hash code is Local region apps hashcode: UP_1_, is fetching remote regions? false 
+2026-02-27 14:47:26 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183846381; nextExpiration=1772183846378; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:27 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183847382; nextExpiration=1772183847381; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:28 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183848383; nextExpiration=1772183848382; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:29 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183849383; nextExpiration=1772183849383; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:30 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183850383; nextExpiration=1772183850383; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:31 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183851384; nextExpiration=1772183851383; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:32 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183852384; nextExpiration=1772183852384; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:33 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183853385; nextExpiration=1772183853384; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:34 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183854386; nextExpiration=1772183854385; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:35 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183855388; nextExpiration=1772183855386; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:36 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183856389; nextExpiration=1772183856388; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:37 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183857389; nextExpiration=1772183857389; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:38 [RMI TCP Connection(6)-127.0.0.1] DEBUG sun.rmi.transport.tcp - RMI TCP Connection(6)-127.0.0.1: accepted socket from [127.0.0.1:60888]
+2026-02-27 14:47:38 [RMI TCP Connection(6)-127.0.0.1] TRACE sun.rmi.transport.tcp - RMI TCP Connection(6)-127.0.0.1: (port 64642) suggesting 127.0.0.1:60888
+2026-02-27 14:47:38 [RMI TCP Connection(6)-127.0.0.1] TRACE sun.rmi.transport.tcp - RMI TCP Connection(6)-127.0.0.1: (port 64642) client using 172.20.16.1:0
+2026-02-27 14:47:38 [RMI TCP Connection(6)-127.0.0.1] DEBUG sun.rmi.transport.tcp - RMI TCP Connection(6)-127.0.0.1: (port 64642) op = 80
+2026-02-27 14:47:38 [RMI TCP Connection(6)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(6)-127.0.0.1: getting input stream
+2026-02-27 14:47:38 [RMI TCP Connection(6)-127.0.0.1] TRACE java.io.serialization - Builtin factory: null -> new: null
+2026-02-27 14:47:38 [RMI TCP Connection(6)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(6)-127.0.0.1: call dispatcher
+2026-02-27 14:47:38 [RMI TCP Connection(6)-127.0.0.1] TRACE sun.rmi.server.call - RMI TCP Connection(6)-127.0.0.1: [127.0.0.1: javax.management.remote.rmi.RMIConnectionImpl[6612fa62:19c9e6000d4:-7ffb, 4596169424098034802]: public abstract java.lang.String javax.management.remote.rmi.RMIConnection.getDefaultDomain(javax.security.auth.Subject) throws java.io.IOException]
+2026-02-27 14:47:38 [RMI TCP Connection(6)-127.0.0.1] DEBUG javax.management.remote.rmi - connectionId=rmi://127.0.0.1  1
+2026-02-27 14:47:38 [RMI TCP Connection(6)-127.0.0.1] TRACE javax.management.remote.misc - Receive a new request.
+2026-02-27 14:47:38 [RMI TCP Connection(6)-127.0.0.1] TRACE javax.management.remote.misc - Finish a request.
+2026-02-27 14:47:38 [RMI TCP Connection(6)-127.0.0.1] TRACE javax.management.remote.timeout - Admin: Timestamp=1772183858171
+2026-02-27 14:47:38 [RMI TCP Connection(6)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(6)-127.0.0.1: getting output stream
+2026-02-27 14:47:38 [JMX server connection timeout 30] TRACE javax.management.remote.timeout - Admin: elapsed=3
+2026-02-27 14:47:38 [JMX server connection timeout 30] TRACE javax.management.remote.timeout - Admin: remaining timeout=119997
+2026-02-27 14:47:38 [JMX server connection timeout 30] TRACE javax.management.remote.misc - Waiting with timeout: 119997 ms remaining
+2026-02-27 14:47:38 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183858392; nextExpiration=1772183858389; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:39 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183859395; nextExpiration=1772183859392; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:40 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183860414; nextExpiration=1772183860395; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:41 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183861416; nextExpiration=1772183861414; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:42 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183862418; nextExpiration=1772183862416; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:43 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183863419; nextExpiration=1772183863418; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:44 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183864419; nextExpiration=1772183864419; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:45 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183865420; nextExpiration=1772183865419; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:46 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183866421; nextExpiration=1772183866420; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:47 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183867421; nextExpiration=1772183867421; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:47 [Catalina-utility-2] DEBUG org.apache.catalina.session.ManagerBase - Start expire sessions StandardManager at 1772183867857 sessioncount 0
+2026-02-27 14:47:47 [Catalina-utility-2] DEBUG org.apache.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2026-02-27 14:47:48 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183868422; nextExpiration=1772183868421; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:49 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183869422; nextExpiration=1772183869422; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:49 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2026-02-27 14:47:49 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2026-02-27 14:47:50 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183870424; nextExpiration=1772183870422; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:51 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183871427; nextExpiration=1772183871424; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:52 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183872427; nextExpiration=1772183872427; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:53 [RMI TCP Connection(6)-127.0.0.1] DEBUG sun.rmi.transport.tcp - RMI TCP Connection(6)-127.0.0.1: (port 64642) connection closed
+2026-02-27 14:47:53 [RMI TCP Connection(6)-127.0.0.1] DEBUG sun.rmi.transport.tcp - RMI TCP Connection(6)-127.0.0.1: close connection, socket: Socket[addr=/127.0.0.1,port=60888,localport=64642]
+2026-02-27 14:47:53 [RMI TCP Connection(6)-127.0.0.1] DEBUG sun.rmi.transport.tcp - RMI TCP Connection(6)-127.0.0.1: socket close: Socket[addr=/127.0.0.1,port=60888,localport=64642]
+2026-02-27 14:47:53 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183873427; nextExpiration=1772183873427; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:54 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183874428; nextExpiration=1772183874427; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:55 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183875429; nextExpiration=1772183875428; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:56 [RMI TCP Connection(7)-127.0.0.1] DEBUG sun.rmi.transport.tcp - RMI TCP Connection(7)-127.0.0.1: accepted socket from [127.0.0.1:60889]
+2026-02-27 14:47:56 [RMI TCP Connection(7)-127.0.0.1] TRACE sun.rmi.transport.tcp - RMI TCP Connection(7)-127.0.0.1: (port 64638) suggesting 127.0.0.1:60889
+2026-02-27 14:47:56 [RMI TCP Connection(7)-127.0.0.1] TRACE sun.rmi.transport.tcp - RMI TCP Connection(7)-127.0.0.1: (port 64638) client using 172.20.16.1:0
+2026-02-27 14:47:56 [RMI TCP Connection(7)-127.0.0.1] DEBUG sun.rmi.transport.tcp - RMI TCP Connection(7)-127.0.0.1: (port 64638) op = 80
+2026-02-27 14:47:56 [RMI TCP Connection(7)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(7)-127.0.0.1: getting input stream
+2026-02-27 14:47:56 [RMI TCP Connection(7)-127.0.0.1] TRACE java.io.serialization - Builtin factory: null -> new: null
+2026-02-27 14:47:56 [RMI TCP Connection(7)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(7)-127.0.0.1: call dispatcher
+2026-02-27 14:47:56 [RMI TCP Connection(7)-127.0.0.1] TRACE sun.rmi.server.call - RMI TCP Connection(7)-127.0.0.1: [127.0.0.1: sun.management.jmxremote.SingleEntryRegistry[0:0:0, 0]: java.rmi.Remote lookup(java.lang.String)]
+2026-02-27 14:47:56 [RMI TCP Connection(7)-127.0.0.1] TRACE java.io.serialization - Builtin factory: null -> new: sun.management.jmxremote.SingleEntryRegistry$$Lambda$95/0x00000198070c2890@5d1c5b40
+2026-02-27 14:47:56 [RMI TCP Connection(7)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(7)-127.0.0.1: getting output stream
+2026-02-27 14:47:56 [RMI TCP Connection(7)-127.0.0.1] DEBUG sun.rmi.transport.tcp - RMI TCP Connection(7)-127.0.0.1: (port 64638) op = 84
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG sun.rmi.transport.tcp - RMI TCP Connection(8)-127.0.0.1: accepted socket from [127.0.0.1:60890]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.transport.tcp - RMI TCP Connection(8)-127.0.0.1: (port 64642) suggesting 127.0.0.1:60890
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.transport.tcp - RMI TCP Connection(8)-127.0.0.1: (port 64642) client using 172.20.16.1:0
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG sun.rmi.transport.tcp - RMI TCP Connection(8)-127.0.0.1: (port 64642) op = 80
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(8)-127.0.0.1: getting input stream
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE java.io.serialization - Builtin factory: null -> new: null
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(8)-127.0.0.1: call dispatcher
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.server.call - RMI TCP Connection(8)-127.0.0.1: [127.0.0.1: javax.management.remote.rmi.RMIJRMPServerImpl[6612fa62:19c9e6000d4:-7fff, 1105670289911618105]: public abstract javax.management.remote.rmi.RMIConnection javax.management.remote.rmi.RMIServer.newClient(java.lang.Object) throws java.io.IOException]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE java.io.serialization - Builtin factory: null -> new: java.lang.String;!*
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE javax.management.remote.rmi - making new client
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE javax.management.remote.rmi - no subject
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE javax.management.remote.rmi - connectionId=rmi://127.0.0.1  2
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE javax.management.remote.rmi - making new connection: rmi://127.0.0.1  2
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE javax.management.remote.misc - Creates a new ServerCommunicatorAdmin object with the timeout 120000
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.dgc - RMI TCP Connection(8)-127.0.0.1: strongRef = javax.management.remote.rmi.RMIConnectionImpl@53b18977: connectionId=rmi://127.0.0.1  2
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.dgc - RMI TCP Connection(8)-127.0.0.1: add object [6612fa62:19c9e6000d4:-7fce, 1520677145349711682]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE javax.management.remote.rmi - new connection done: rmi://127.0.0.1  2
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(8)-127.0.0.1: getting output stream
+2026-02-27 14:47:56 [JMX server connection timeout 63] TRACE javax.management.remote.timeout - Admin: timeout=120000
+2026-02-27 14:47:56 [JMX server connection timeout 63] TRACE javax.management.remote.timeout - Admin: Timestamp=1772183876171
+2026-02-27 14:47:56 [JMX server connection timeout 63] TRACE javax.management.remote.timeout - Admin: remaining timeout=120000
+2026-02-27 14:47:56 [JMX server connection timeout 63] TRACE javax.management.remote.misc - Waiting with timeout: 120000 ms remaining
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG sun.rmi.transport.tcp - RMI TCP Connection(8)-127.0.0.1: (port 64642) op = 80
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(8)-127.0.0.1: getting input stream
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE java.io.serialization - Builtin factory: null -> new: null
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(8)-127.0.0.1: call dispatcher
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.server.call - RMI TCP Connection(8)-127.0.0.1: [127.0.0.1: sun.rmi.transport.DGCImpl[0:0:0, 2]: java.rmi.dgc.Lease dirty(java.rmi.server.ObjID[], long, java.rmi.dgc.Lease)]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE java.io.serialization - Builtin factory: null -> new: sun.rmi.transport.DGCImpl$2$$Lambda$91/0x000001980701cbe0@62289c44
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: name = "[Ljava.rmi.server.ObjID;", codebase = "", defaultLoader = jdk.internal.loader.ClassLoaders$PlatformClassLoader@556b6060
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: class "[Ljava.rmi.server.ObjID;" found via defaultLoader, defined by null
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: name = "java.rmi.server.ObjID", codebase = "", defaultLoader = jdk.internal.loader.ClassLoaders$PlatformClassLoader@556b6060
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: class "java.rmi.server.ObjID" found via defaultLoader, defined by null
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: name = "java.rmi.server.UID", codebase = "", defaultLoader = jdk.internal.loader.ClassLoaders$PlatformClassLoader@556b6060
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: class "java.rmi.server.UID" found via defaultLoader, defined by null
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: name = "java.rmi.dgc.Lease", codebase = "", defaultLoader = jdk.internal.loader.ClassLoaders$PlatformClassLoader@556b6060
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: class "java.rmi.dgc.Lease" found via defaultLoader, defined by null
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: name = "java.rmi.dgc.VMID", codebase = "", defaultLoader = jdk.internal.loader.ClassLoaders$PlatformClassLoader@556b6060
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: class "java.rmi.dgc.VMID" found via defaultLoader, defined by null
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: name = "[B", codebase = "", defaultLoader = jdk.internal.loader.ClassLoaders$PlatformClassLoader@556b6060
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: class "[B" found via defaultLoader, defined by null
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.dgc - RMI TCP Connection(8)-127.0.0.1: vmid = fa561840fc22a5e8:51d5b731:19c9e5475e6:-7fff
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.dgc - RMI TCP Connection(8)-127.0.0.1: id = [6612fa62:19c9e6000d4:-7fce, 1520677145349711682], vmid = fa561840fc22a5e8:51d5b731:19c9e5475e6:-7fff, duration = 600000
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.dgc - RMI TCP Connection(8)-127.0.0.1: add to dirty set: fa561840fc22a5e8:51d5b731:19c9e5475e6:-7fff
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(8)-127.0.0.1: getting output stream
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG sun.rmi.transport.tcp - RMI TCP Connection(8)-127.0.0.1: (port 64642) op = 84
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG sun.rmi.transport.tcp - RMI TCP Connection(8)-127.0.0.1: (port 64642) op = 80
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(8)-127.0.0.1: getting input stream
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE java.io.serialization - Builtin factory: null -> new: null
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(8)-127.0.0.1: call dispatcher
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.server.call - RMI TCP Connection(8)-127.0.0.1: [127.0.0.1: javax.management.remote.rmi.RMIConnectionImpl[6612fa62:19c9e6000d4:-7fce, 1520677145349711682]: public abstract java.lang.String javax.management.remote.rmi.RMIConnection.getConnectionId() throws java.io.IOException]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(8)-127.0.0.1: getting output stream
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG sun.rmi.transport.tcp - RMI TCP Connection(8)-127.0.0.1: (port 64642) op = 80
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(8)-127.0.0.1: getting input stream
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE java.io.serialization - Builtin factory: null -> new: null
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.transport.misc - RMI TCP Connection(8)-127.0.0.1: call dispatcher
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.server.call - RMI TCP Connection(8)-127.0.0.1: [127.0.0.1: javax.management.remote.rmi.RMIConnectionImpl[6612fa62:19c9e6000d4:-7fce, 1520677145349711682]: public abstract java.lang.Object javax.management.remote.rmi.RMIConnection.invoke(javax.management.ObjectName,java.lang.String,java.rmi.MarshalledObject,java.lang.String[],javax.security.auth.Subject) throws javax.management.InstanceNotFoundException,javax.management.MBeanException,javax.management.ReflectionException,java.io.IOException]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: name = "javax.management.ObjectName", codebase = ""
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: (thread context class loader: jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa)
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: class "javax.management.ObjectName" found via thread context class loader (no security manager: codebase disabled), defined by null
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: name = "java.rmi.MarshalledObject", codebase = ""
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: (thread context class loader: jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa)
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE sun.rmi.loader - RMI TCP Connection(8)-127.0.0.1: class "java.rmi.MarshalledObject" found via thread context class loader (no security manager: codebase disabled), defined by null
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG javax.management.remote.rmi - connectionId=rmi://127.0.0.1  2 unwrapping params with MBean extended ClassLoader.
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE javax.management.mbeanserver - name = org.springframework.boot:type=Admin,name=SpringApplication
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG javax.management.remote.rmi - connectionId=rmi://127.0.0.1  2, name=org.springframework.boot:type=Admin,name=SpringApplication, operationName=shutdown, signature=null
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE javax.management.remote.misc - Receive a new request.
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE javax.management.mbeanserver - name = org.springframework.boot:type=Admin,name=SpringApplication
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] INFO  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1772183876202, current=DOWN, previous=UP]
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG com.netflix.discovery.InstanceInfoReplicator - Executing on-demand update of local InstanceInfo
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG com.netflix.discovery.InstanceInfoReplicator - Canceling the latest scheduled update, it will be rescheduled at the end of on demand update
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] INFO  com.netflix.discovery.DiscoveryClient - DiscoveryClient_PATIENT-SERVICE/Shakir:patient-service:8090: registering service...
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000017 preparing request execution
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000017 target auth state: UNCHALLENGED
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000017 proxy auth state: UNCHALLENGED
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000017 acquiring connection with route {}->http://localhost:8761
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000017 acquiring endpoint (180000 MILLISECONDS)
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000017 endpoint lease request (180000 MILLISECONDS) [route: {}->http://localhost:8761][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000017 endpoint leased [route: {}->http://localhost:8761][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[read] I/O error: Read timed out"
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000017 acquired ep-0000000017
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000017 acquired endpoint ep-0000000017
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000017 executing POST /eureka/apps/PATIENT-SERVICE HTTP/1.1
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.protocol.RequestAddCookies - ex-0000000017 Cookie spec selected: strict
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000017 start execution ex-0000000017
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000017 executing exchange ex-0000000017 over http-outgoing-1
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> POST /eureka/apps/PATIENT-SERVICE HTTP/1.1
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Accept: application/json, application/*+json
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Accept-Encoding: gzip
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Content-Type: application/json
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Content-Length: 1011
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Host: localhost:8761
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Connection: keep-alive
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> User-Agent: Apache-HttpClient/5.2.1 (Java/17.0.12)
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "POST /eureka/apps/PATIENT-SERVICE HTTP/1.1[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Accept: application/json, application/*+json[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Accept-Encoding: gzip[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Content-Type: application/json[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Content-Length: 1011[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Host: localhost:8761[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Connection: keep-alive[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "User-Agent: Apache-HttpClient/5.2.1 (Java/17.0.12)[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "{"instance":{"instanceId":"Shakir:patient-service:8090","app":"PATIENT-SERVICE","appGroupName":null,"ipAddr":"192.168.1.68","sid":"na","homePageUrl":"http://192.168.1.68:8090/","statusPageUrl":"http://192.168.1.68:8090/actuator/info","healthCheckUrl":"http://192.168.1.68:8090/actuator/health","secureHealthCheckUrl":null,"vipAddress":"patient-service","secureVipAddress":"patient-service","countryId":1,"dataCenterInfo":{"@class":"com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo","name":"MyOwn"},"hostName":"192.168.1.68","status":"DOWN","overriddenStatus":"UNKNOWN","leaseInfo":{"renewalIntervalInSecs":30,"durationInSecs":90,"registrationTimestamp":0,"lastRenewalTimestamp":0,"evictionTimestamp":0,"serviceUpTimestamp":0},"isCoordinatingDiscoveryServer":false,"lastUpdatedTimestamp":1772183634853,"lastDirtyTimestamp":1772183876202,"actionType":null,"asgName":null,"port":{"$":8090,"@enabled":"true"},"securePort":{"$":443,"@enabled":"false"},"metadata":{"management.port":"8090","jmx.port":"64638"}}}"
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardServer[-1]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardServer[-1]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardService[Tomcat]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "HTTP/1.1 204 [\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "Date: Fri, 27 Feb 2026 09:17:56 GMT[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "Keep-Alive: timeout=60[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "Connection: keep-alive[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << HTTP/1.1 204 
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << Date: Fri, 27 Feb 2026 09:17:56 GMT
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << Keep-Alive: timeout=60
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << Connection: keep-alive
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000017 connection can be kept alive for 60 SECONDS
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000017 releasing valid endpoint
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000018 preparing request execution
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000017 releasing endpoint
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000017 connection http-outgoing-1 can be kept alive for 60 SECONDS
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000018 target auth state: UNCHALLENGED
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000017 connection released [route: {}->http://localhost:8761][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000018 proxy auth state: UNCHALLENGED
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000018 acquiring connection with route {}->http://localhost:8761
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000018 acquiring endpoint (180000 MILLISECONDS)
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000018 endpoint lease request (180000 MILLISECONDS) [route: {}->http://localhost:8761][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:56 [DiscoveryClient-InstanceInfoReplicator-0] INFO  com.netflix.discovery.DiscoveryClient - DiscoveryClient_PATIENT-SERVICE/Shakir:patient-service:8090 - registration status: 204
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000019 preparing request execution
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000018 endpoint leased [route: {}->http://localhost:8761][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000019 target auth state: UNCHALLENGED
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000019 proxy auth state: UNCHALLENGED
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000019 acquiring connection with route {}->http://localhost:8761
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000019 acquiring endpoint (180000 MILLISECONDS)
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000019 endpoint lease request (180000 MILLISECONDS) [route: {}->http://localhost:8761][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000019 endpoint leased [route: {}->http://localhost:8761][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000018 acquired ep-0000000018
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000018 acquired endpoint ep-0000000018
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000018 executing PUT /eureka/apps/PATIENT-SERVICE/Shakir:patient-service:8090?status=DOWN&lastDirtyTimestamp=1772183876202 HTTP/1.1
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.protocol.RequestAddCookies - ex-0000000018 Cookie spec selected: strict
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000018 start execution ex-0000000018
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000018 executing exchange ex-0000000018 over http-outgoing-1
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> PUT /eureka/apps/PATIENT-SERVICE/Shakir:patient-service:8090?status=DOWN&lastDirtyTimestamp=1772183876202 HTTP/1.1
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Accept: application/json, application/*+json
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Accept-Encoding: gzip, x-gzip, deflate
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Content-Length: 0
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Host: localhost:8761
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Connection: keep-alive
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> User-Agent: Apache-HttpClient/5.2.1 (Java/17.0.12)
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "PUT /eureka/apps/PATIENT-SERVICE/Shakir:patient-service:8090?status=DOWN&lastDirtyTimestamp=1772183876202 HTTP/1.1[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Accept: application/json, application/*+json[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Accept-Encoding: gzip, x-gzip, deflate[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Content-Length: 0[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Host: localhost:8761[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Connection: keep-alive[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "User-Agent: Apache-HttpClient/5.2.1 (Java/17.0.12)[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[read] I/O error: Read timed out"
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000019 acquired ep-0000000019
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000019 acquired endpoint ep-0000000019
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000019 executing GET /eureka/apps/delta HTTP/1.1
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.protocol.RequestAddCookies - ex-0000000019 Cookie spec selected: strict
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000019 start execution ex-0000000019
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000019 executing exchange ex-0000000019 over http-outgoing-0
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> GET /eureka/apps/delta HTTP/1.1
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> Accept: application/json, application/*+json
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> Accept-Encoding: gzip, x-gzip, deflate
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> Content-Length: 0
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> Host: localhost:8761
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> Connection: keep-alive
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> User-Agent: Apache-HttpClient/5.2.1 (Java/17.0.12)
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "GET /eureka/apps/delta HTTP/1.1[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "Accept: application/json, application/*+json[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "Accept-Encoding: gzip, x-gzip, deflate[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "Content-Length: 0[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "Host: localhost:8761[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "Connection: keep-alive[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "User-Agent: Apache-HttpClient/5.2.1 (Java/17.0.12)[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "HTTP/1.1 200 [\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "Content-Length: 0[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "Date: Fri, 27 Feb 2026 09:17:56 GMT[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "Keep-Alive: timeout=60[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "Connection: keep-alive[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "HTTP/1.1 200 [\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Type: application/json[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Length: 541[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Date: Fri, 27 Feb 2026 09:17:56 GMT[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << HTTP/1.1 200 
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << Content-Length: 0
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << Date: Fri, 27 Feb 2026 09:17:56 GMT
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Keep-Alive: timeout=60[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << Keep-Alive: timeout=60
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << Connection: keep-alive
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[\r][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000018 connection can be kept alive for 60 SECONDS
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000018 releasing valid endpoint
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000018 releasing endpoint
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000018 connection http-outgoing-1 can be kept alive for 60 SECONDS
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[0x1f][0xffffff8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0xffffffff][0xffffff8d]RMo[0xffffffe2]0[0x10][0xfffffffd]/V[0xffffff8f]4[0xffffff90]B[0x3][0xffffffc9][0xffffffa9][0xffffff88]p[0xffffff88]VKQ[0xffffff81][0xffffffee]a[0xffffffb5]B[0xffffffb3][0xffffffce]@[0xffffffbc]M[0xffffffec][0xffffffc8]vh[0x11][0xffffffe2][0xffffffbf]w[0xffffff9c]4l[0xffffffe9][0xffffff97]*[0xe][0xffffffc1]3o>[0xffffffde][0xffffff9b]w`P[0xffffff96][0xffffffb9][0xffffffe0]`[0xffffff85][0xffffff92][0xffffff86]E[0x7][0xffffffb6]Cm[0xffffffdc][0xffffffff][0xfffffff5]:[0xffffffc5][0xffffffdc][0x2][0xffffff8b][0xffffff98][0xffffffdf]c[0x1d][0x7][0xffffffa3]P[0x6]&[0xffffffe3]*E[0xffffff8a][0xffffffae][0xffffffe6]k[0x7f][0xffffffdd]$[0xffffffda]z[0x16][0xfffffffd]>0[0x9][0xffffff85]K[0xffffffcf][0xffffffc7][0xffffffcb]d:[^.[0xffffffa6]w[0xfffffff7][0xffffffc9]dJ@![0xffffff8d][0x5][0xffffffc9][0xffffffb1]F[0xffffffb5][0xffffff8f]$%[0xffffffec]"[0xffffff83][0x7][0xffffffa1][0xffffffa3][0xffffff92][0xffffff9a][0xffffffa0][0xffffffb4][0xffffff97][0x6][0xfffffff5]Np[0xffffff8c]F[0xffffffbd][0xffffffd0]M[0xffffffce][0xffffff94][0xffffffb1][0xffffffb3][0xffffffa6][0xffffffa9][0x1f]^y~0[0xfffffff2]|/[0x18]5[0xffffffa3]?[0xffffff9e]T[0xffffff8e][0xffffffd3]T[0xffffffbf][0xffffffc7][0xffffffd3]H[[0xffffff99]zwz)b[0xffffffaa]E[0xffffff9a][0xffffffa2]\[0xffffff9c][0xffffffe2][0xffffffb3][0x1f][0xffffffb3][0xffffffdb]_3J[0xffffff96]J[[0xffffffa7][0xffffffc6][0x5][0xffffffab][0xffffffd7][0xffffffe8][0xffffffb0][0x1b][0xffffff94][0xfffffff0]7G[0xffffffb7][0xffffffae][0xffffffd5][0x15][0xffffffb2]#[0xffffffb5]C^i[0xffffff9c][0xffffffff]G[0xe][0x6][0xfffffffd]3[0xffffffe0][0x6]rS#[0xffffffb9][0xffffffaa][0xffffffa4][0xffffffd5]{G[0xffffffd6][0xffffffef][0xffffffb0][0x14],L[0xffffff88]([0xffffffea]Dn[0xffffff94][0xffffffab][0xffffffbd][0xffffffe1]9[0x18][0xffffffb7][0x0]W[0xffffff85]'[0xffffffd1]nr[0xfffffff1][0xffffffe4][0x11];Ay/i[0xffffffa5][0xffffffa2][0xffffffc7]E[0xffffff8c][0x1b][0xffffffa8]r[0x1b][0xffffff9f][0xffffffb7][0xffffffe8][0xffffffb4][0xffffffaa][0xffffffff][0xffffffdc][0xffffffdf]>J71G0[0xffffffd8][0xffffffb6][0xffffffd7]([0xfffffff1][0x11][0xfffffff2][0xffffffc4][0xffffffe1]w[0xffffffee][0xffffffbb]@N[0xffffffd3][0xfffffffa]D+[0xffffffad]t}[0xffffffba]6[0xffffffe6][0xffffffa8]j[0xffffffdc][\n]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000018 connection released [route: {}->http://localhost:8761][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "c[0xffffff9b][0xfffffff8]R[0x14]H[0xffffffe3][0xb][0x12][0xffffffda][0x1f][0xe][0xffffffaf][0xfffffffc]Q?[0xffffffe8]_[0xffffff87][0xffffffbd][0x1]M[0x0]c[0xffffffef][0xffffff9a][0xffffffc6][0xffffffef]Aa/[0xfffffff0][0xffffffaf][0xffffffc3][0xe]C:[0xffffffe4][0xffffff9b]6='\}[0xffffffe0]U[0xfffffff9]Yw"P[0xffffffa0][0x5]'[0xffffff94][0xffffffdb][0xffffffbf][0x0][0x9][,[0xffffff88][0xffffffaf][0xffffffd7][0xffffffdc][0xffffff85][0xffffffbd]X[0xffffffe3]_[0xfffffff1][0xffffffd4]F[0xffffff82]A[0xffffffd0][0x1f]9[0xffffffe6][0xffffff99]*pN[0xfffffff0][0xffffff95][0xffffffce])[0xffffff9c]Y[F[0xffffffdd][0xffffffee]k#[0xffffffd4][0x7][0xffffffed][0xffffff9e][0xffffffec][0xfffffff0][\r],p[[0xffffff81]U[0xffffffba]+[0x1a][0xffffffb1]3[0xffffff84][0xffffffdc]f[0xffffff93][0xc][0xfffffff9][0xffffffc3]w+[0xffffff9b][0x12][0xffffffaa][0xffffffdd]5[0xffffffe6][0xffffffc4][0xfffffffa][0xffffffdc]o[0x1c][0xffffffcf]ZO[0xffffffdd][0x7f][\r][0x12]f[0xffffffa2][0xffffff94]N[0xffffff85][0xffffffa4][0xffffff8c][0xffffffdc][0xffffffc6][0xffffffc2]p[0xffffffe7][0xffffffe5][0xfffffffd][0xffffff82][0x0][0xffffffa8]O[0xffffffbe]kN[0xffffffb4]*IEL_)[0xffffffcd][0xffffffce][0xffffffa4]~[0xffffff81][0xffffffc5]B[0xffffffdb][0xfffffffd][0xffffffc7][0xffffffa0]a[0xffffffe8]@[0xffffffd0][0xffffffdc]q_:[0xffffff9b][0xffffff8d][0xffffffe3]x[0x1a][0xffffffb3][0xffffffe3][0x1f][0xfffffffa][0x1d][0xffffff9f][0x1][0x5][0xffffff95][0xffffffdc]rB[0x4][0x0][0x0]"
+2026-02-27 14:47:56 [DiscoveryClient-HeartbeatExecutor-0] DEBUG com.netflix.discovery.DiscoveryClient - DiscoveryClient_PATIENT-SERVICE/Shakir:patient-service:8090 - Heartbeat status: 200
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << HTTP/1.1 200 
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Encoding: gzip
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Type: application/json
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Length: 541
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Date: Fri, 27 Feb 2026 09:17:56 GMT
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Keep-Alive: timeout=60
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Connection: keep-alive
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000019 connection can be kept alive for 60 SECONDS
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000019 releasing valid endpoint
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000019 releasing endpoint
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000019 connection http-outgoing-0 can be kept alive for 60 SECONDS
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000019 connection released [route: {}->http://localhost:8761][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG com.netflix.discovery.DiscoveryClient - Got delta update with apps hashcode UP_1_
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG com.netflix.discovery.DiscoveryClient - Added instance Shakir:patient-service:8090 to the existing apps in region null
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG com.netflix.discovery.DiscoveryClient - The total number of instances fetched by the delta processor : 1
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG com.netflix.discovery.DiscoveryClient - The total number of all instances in the client now is 1
+2026-02-27 14:47:56 [DiscoveryClient-CacheRefreshExecutor-0] DEBUG com.netflix.discovery.DiscoveryClient - Completed cache refresh task for discovery. All Apps hash code is Local region apps hashcode: UP_1_, is fetching remote regions? false 
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.tomcat.util.net.NioEndpoint - About to unlock socket for:/[0:0:0:0:0:0:0:1]:8090
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.tomcat.util.net.NioEndpoint - Socket unlock completed for:/[0:0:0:0:0:0:0:1]:8090
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8090"]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardService[Tomcat]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngine[Tomcat]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngine[Tomcat]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardPipeline[StandardEngine[Tomcat]]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardPipeline[StandardEngine[Tomcat]]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngineValve[StandardEngine[Tomcat]]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngineValve[StandardEngine[Tomcat]]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngineValve[StandardEngine[Tomcat]]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardPipeline[StandardEngine[Tomcat]]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngine[Tomcat].StandardHost[localhost]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.mapper.MapperListener - Unregister host [localhost] at domain [null] for service [StandardService[Tomcat]]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngine[Tomcat].StandardHost[localhost]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardPipeline[StandardEngine[Tomcat].StandardHost[localhost]]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardPipeline[StandardEngine[Tomcat].StandardHost[localhost]]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [ErrorReportValve[StandardEngine[Tomcat].StandardHost[localhost]]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [ErrorReportValve[StandardEngine[Tomcat].StandardHost[localhost]]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [ErrorReportValve[StandardEngine[Tomcat].StandardHost[localhost]]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardHostValve[StandardEngine[Tomcat].StandardHost[localhost]]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardHostValve[StandardEngine[Tomcat].StandardHost[localhost]]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardHostValve[StandardEngine[Tomcat].StandardHost[localhost]]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardPipeline[StandardEngine[Tomcat].StandardHost[localhost]]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.mapper.MapperListener - Unregister Context [] for service [StandardService[Tomcat]]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.mapper.MapperListener - Unregister Wrapper [dispatcherServlet] in Context [] for service [StandardService[Tomcat]]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardPipeline[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet]]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardPipeline[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet]]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardWrapperValve[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet]]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardWrapperValve[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet]]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardWrapperValve[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet]]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardPipeline[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet]]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Stopping filters
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -  Stopping filter 'requestContextFilter'
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.core.ApplicationFilterConfig - JMX de-registration complete for filter of type [org.springframework.boot.web.servlet.filter.OrderedRequestContextFilter] and name [requestContextFilter]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -  Stopping filter 'Tomcat WebSocket (JSR356) Filter'
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.core.ApplicationFilterConfig - JMX de-registration complete for filter of type [org.apache.tomcat.websocket.server.WsFilter] and name [Tomcat WebSocket (JSR356) Filter]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -  Stopping filter 'characterEncodingFilter'
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.core.ApplicationFilterConfig - JMX de-registration complete for filter of type [org.springframework.boot.web.servlet.filter.OrderedCharacterEncodingFilter] and name [characterEncodingFilter]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -  Stopping filter 'formContentFilter'
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.core.ApplicationFilterConfig - JMX de-registration complete for filter of type [org.springframework.boot.web.servlet.filter.OrderedFormContentFilter] and name [formContentFilter]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardManager[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.session.StandardManager - Stopping
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardManager[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.session.StandardManager - Unloading persisted sessions
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.session.StandardManager - No persisted sessions to unload
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.springframework.boot.web.embedded.tomcat.LazySessionIdGenerator@6c6379c] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.springframework.boot.web.embedded.tomcat.LazySessionIdGenerator@6c6379c] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.springframework.boot.web.embedded.tomcat.LazySessionIdGenerator@6c6379c] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardManager[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.core.StandardContext - Sending application stop events
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.core.StandardContext - Processing standard container shutdown
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.deploy.NamingResourcesImpl@6326c5ec] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.deploy.NamingResourcesImpl@6326c5ec] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.deploy.NamingResourcesImpl@6326c5ec] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardPipeline[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardPipeline[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [NonLoginAuthenticator[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [NonLoginAuthenticator[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [NonLoginAuthenticator[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardContextValve[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardContextValve[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardContextValve[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardPipeline[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [WebappLoader[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.loader.WebappLoader - Stopping this Loader
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [WebappLoader[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.loader.WebappClassLoaderBase - getResourceAsStream(org/apache/catalina/loader/JdbcLeakPrevention.class)
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.loader.WebappClassLoaderBase -   Delegating to parent classloader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.loader.WebappClassLoaderBase -   --> Returning stream from parent
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [WebappLoader[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.webresources.StandardRoot@677cc4e8] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.webresources.DirResourceSet@6aad919c] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.webresources.DirResourceSet@6aad919c] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.webresources.DirResourceSet@6aad919c] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.webresources.DirResourceSet@6aad919c] to [DESTROYING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.webresources.DirResourceSet@6aad919c] to [DESTROYED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.webresources.StandardRoot@677cc4e8] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.webresources.StandardRoot@677cc4e8] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet]] to [DESTROYING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardPipeline[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet]]] to [DESTROYING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardWrapperValve[Container is null]] to [DESTROYING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardWrapperValve[Container is null]] to [DESTROYED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardPipeline[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet]]] to [DESTROYED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[].StandardWrapper[dispatcherServlet]] to [DESTROYED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.core.StandardContext - resetContext Tomcat:j2eeType=WebModule,name=//localhost/,J2EEApplication=none,J2EEServer=none
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.core.StandardContext - Stopping complete
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngine[Tomcat].StandardHost[localhost]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [SimpleRealm[StandardEngine[Tomcat]]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [SimpleRealm[StandardEngine[Tomcat]]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [SimpleRealm[StandardEngine[Tomcat]]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardEngine[Tomcat]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [Connector["http-nio-8090"]] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [Connector["http-nio-8090"]] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8090"]
+2026-02-27 14:47:56 [http-nio-8090-Poller] TRACE org.apache.tomcat.util.net.NioEndpoint - timeout completed: keys processed=0; now=1772183876311; nextExpiration=1772183876429; keyCount=0; hasEvents=false; eval=false
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.tomcat.util.net.NioEndpoint - Destroy initiated for 0.0.0.0/0.0.0.0:8090
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.tomcat.util.net.NioEndpoint - Destroy completed for 0.0.0.0/0.0.0.0:8090
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [Connector["http-nio-8090"]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.mapper.MapperListener@5ad6f98e] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.mapper.MapperListener@5ad6f98e] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.mapper.MapperListener@5ad6f98e] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardService[Tomcat]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.deploy.NamingResourcesImpl@236861da] to [STOPPING_PREP]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.deploy.NamingResourcesImpl@236861da] to [STOPPING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [org.apache.catalina.deploy.NamingResourcesImpl@236861da] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardServer[-1]] to [STOPPED]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardServer[-1]] to [DESTROYING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.catalina.util.LifecycleBase - Setting state for [StandardService[Tomcat]] to [DESTROYING]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.hibernate.internal.SessionFactoryImpl - HHH000031: Closing
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE org.hibernate.service.internal.AbstractServiceRegistryImpl - Initializing service [role=org.hibernate.engine.jdbc.connections.spi.MultiTenantConnectionProvider]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] TRACE org.hibernate.type.spi.TypeConfiguration$Scope - Handling #sessionFactoryClosed from [org.hibernate.internal.SessionFactoryImpl@31d8352e] for TypeConfiguration
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.hibernate.type.spi.TypeConfiguration$Scope - Un-scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration$Scope@561eebc8] from SessionFactory [org.hibernate.internal.SessionFactoryImpl@31d8352e]
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.hibernate.service.internal.AbstractServiceRegistryImpl - Implicitly destroying ServiceRegistry on de-registration of all child ServiceRegistries
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.hibernate.boot.registry.internal.BootstrapServiceRegistryImpl - Implicitly destroying Boot-strap registry on de-registration of all child ServiceRegistries
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2026-02-27 14:47:56 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6074d638: (connection evicted)
+2026-02-27 14:47:56 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5f7b6a: (connection evicted)
+2026-02-27 14:47:56 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@518bf69f: (connection evicted)
+2026-02-27 14:47:56 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1f2e2132: (connection evicted)
+2026-02-27 14:47:56 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@55c5cbad: (connection evicted)
+2026-02-27 14:47:56 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@53a24c88: (connection evicted)
+2026-02-27 14:47:56 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@544377a5: (connection evicted)
+2026-02-27 14:47:56 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1457a52a: (connection evicted)
+2026-02-27 14:47:56 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6bcc8df4: (connection evicted)
+2026-02-27 14:47:56 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@29ebff96: (connection evicted)
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-02-27 14:47:56 [RMI TCP Connection(8)-127.0.0.1] INFO  com.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] INFO  com.netflix.discovery.DiscoveryClient - Unregistering ...
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000020 preparing request execution
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000020 target auth state: UNCHALLENGED
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000020 proxy auth state: UNCHALLENGED
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000020 acquiring connection with route {}->http://localhost:8761
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000020 acquiring endpoint (180000 MILLISECONDS)
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000020 endpoint lease request (180000 MILLISECONDS) [route: {}->http://localhost:8761][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000020 endpoint leased [route: {}->http://localhost:8761][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[read] I/O error: Read timed out"
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000020 acquired ep-0000000020
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000020 acquired endpoint ep-0000000020
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000020 executing DELETE /eureka/apps/PATIENT-SERVICE/Shakir:patient-service:8090 HTTP/1.1
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.protocol.RequestAddCookies - ex-0000000020 Cookie spec selected: strict
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000020 start execution ex-0000000020
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000020 executing exchange ex-0000000020 over http-outgoing-1
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> DELETE /eureka/apps/PATIENT-SERVICE/Shakir:patient-service:8090 HTTP/1.1
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Accept: application/json, application/*+json
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Accept-Encoding: gzip, x-gzip, deflate
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Content-Length: 0
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Host: localhost:8761
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> Connection: keep-alive
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 >> User-Agent: Apache-HttpClient/5.2.1 (Java/17.0.12)
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "DELETE /eureka/apps/PATIENT-SERVICE/Shakir:patient-service:8090 HTTP/1.1[\r][\n]"
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Accept: application/json, application/*+json[\r][\n]"
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Accept-Encoding: gzip, x-gzip, deflate[\r][\n]"
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Content-Length: 0[\r][\n]"
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Host: localhost:8761[\r][\n]"
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "Connection: keep-alive[\r][\n]"
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "User-Agent: Apache-HttpClient/5.2.1 (Java/17.0.12)[\r][\n]"
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 >> "[\r][\n]"
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "HTTP/1.1 200 [\r][\n]"
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "Content-Length: 0[\r][\n]"
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "Date: Fri, 27 Feb 2026 09:17:59 GMT[\r][\n]"
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "Keep-Alive: timeout=60[\r][\n]"
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "Connection: keep-alive[\r][\n]"
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[\r][\n]"
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << HTTP/1.1 200 
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << Content-Length: 0
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << Date: Fri, 27 Feb 2026 09:17:59 GMT
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << Keep-Alive: timeout=60
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.headers - http-outgoing-1 << Connection: keep-alive
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000020 connection can be kept alive for 60 SECONDS
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000020 releasing valid endpoint
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000020 releasing endpoint
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000020 connection http-outgoing-1 can be kept alive for 60 SECONDS
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000020 connection released [route: {}->http://localhost:8761][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] INFO  com.netflix.discovery.DiscoveryClient - DiscoveryClient_PATIENT-SERVICE/Shakir:patient-service:8090 - deregister  status: 200
+2026-02-27 14:47:59 [RMI TCP Connection(8)-127.0.0.1] INFO  com.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient

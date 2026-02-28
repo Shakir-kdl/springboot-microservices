@@ -1,0 +1,4 @@
+2026-02-28 14:47:09 [main] INFO  com.fortis.patient.PatientServiceApplication - Started PatientServiceApplication in 15.503 seconds (process running for 17.483)
+2026-02-28 14:47:15 [http-nio-8090-exec-1] INFO  com.fortis.patient.service.PatientService - Register patient request received
+2026-02-28 14:47:15 [http-nio-8090-exec-1] DEBUG com.fortis.patient.service.PatientService - Saving Patient to Database
+2026-02-28 14:47:16 [http-nio-8090-exec-1] INFO  com.fortis.patient.service.PatientService - Patient saved successfully with ID: 6

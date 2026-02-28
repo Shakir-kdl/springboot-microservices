@@ -1,0 +1,5 @@
+2026-02-27 14:48:17 [main] INFO  com.fortis.patient.PatientServiceApplication - Starting PatientServiceApplication using Java 17.0.12 with PID 14368 (C:\Users\shaik\microservice-workspace\patient-service\target\classes started by Shakir in C:\Users\shaik\microservice-workspace\patient-service)
+2026-02-27 14:48:17 [main] INFO  com.fortis.patient.PatientServiceApplication - The following 1 profile is active: "dev"
+2026-02-27 14:48:29 [main] INFO  com.fortis.patient.PatientServiceApplication - Started PatientServiceApplication in 22.115 seconds (process running for 24.662)
+2026-02-27 14:48:55 [http-nio-8090-exec-2] INFO  com.fortis.patient.service.PatientService - Register patient request received
+2026-02-27 14:48:55 [http-nio-8090-exec-2] ERROR com.fortis.patient.service.PatientService - Patient name is null. Cannot register patient.
