@@ -43,4 +43,4 @@ eureka:
     register-with-eureka: true
 
 server:
-  port: 8099
+  port: 8093
