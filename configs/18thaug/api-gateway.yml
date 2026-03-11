@@ -21,6 +21,12 @@ spring:
             - Path=/api/users/**
           filters:
             - StripPrefix=1
+            - name: RequestRateLimiter
+              args:
+                redis-rate-limiter.replenishRate: 5
+                redis-rate-limiter.burstCapacity: 5
+                redis-rate-limiter.requestedTokens: 1
+                key-resolver: "#{@ipKeyResolver}"
 
         - id: order-service
           uri: lb://order-service-api-circuit-ratelimiting
